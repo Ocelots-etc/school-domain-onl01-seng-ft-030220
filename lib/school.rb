@@ -19,7 +19,8 @@ class School
  end
 
  def sort(name, grade)
-  School.select do |name, grade|
+  School.select { |name, grade| name, grade }
+
     end
  end
 
