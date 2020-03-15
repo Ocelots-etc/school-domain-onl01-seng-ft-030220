@@ -24,4 +24,4 @@ class School
 
 end
 
-s
+# school = school.new("Bayside High School")
