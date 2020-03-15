@@ -1,15 +1,15 @@
 class School
- attr_accessor :name, :grade,
-# school = []
+ # attr_accessor :name, :grade,
+school = []
 
- def initialize(school)
-   @school = school
- end
-
- def school
-   @school
- end
- # def name
+ # def initialize(school)
+ #   @school = school
+ # end
+ # 
+ # def school
+ #   @school
+ # end
+ # # def name
  #   @name
  # end
 
