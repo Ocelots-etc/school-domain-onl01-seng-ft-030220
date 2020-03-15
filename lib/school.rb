@@ -13,7 +13,7 @@ class School
      @roster[grade] << name
  end
 
- def grade(grade)
+ def grade(grade, name)
    @grade = grade
    @add_student = ["#{name}"]
  end
