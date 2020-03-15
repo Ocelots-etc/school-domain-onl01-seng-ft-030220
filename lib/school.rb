@@ -18,4 +18,6 @@ class School
    @add_student = ["#{@name}"]
  end
 
+ 
+
 end
