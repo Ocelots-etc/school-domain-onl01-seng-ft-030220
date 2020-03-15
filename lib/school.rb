@@ -19,9 +19,8 @@ class School
  end
 
  def sort(name, grade)
-  School.select |name, grade|
-
-
+  School.split |name, grade|
+    
     end
  end
 
