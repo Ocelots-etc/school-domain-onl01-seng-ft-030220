@@ -18,8 +18,8 @@ class School
    @add_student = @roster[grade]
  end
 
- def sort(name, grade)
-  School.split
+ def sort
+  School
  end
 
 end
