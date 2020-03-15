@@ -11,7 +11,7 @@ class School
 
 # , :roster, :grade
 #
-# roster = {}
+roster = {}
 #
 # def initialize(roster)
 #   @roster = roster
