@@ -7,7 +7,8 @@ class School
  end
 
  def add_student(name, grade)
-  roster < {"@#[name]"}
+   if roster.include?(grade) == false
+  roster[grade] < {}
  end
  #
  # def school
