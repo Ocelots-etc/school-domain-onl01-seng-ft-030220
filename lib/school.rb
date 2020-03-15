@@ -12,7 +12,7 @@ roster = {}
 
 def roster
   roster["name"] = []
-
+  roster["name"] << ""
 end
 
 # , :roster, :grade
