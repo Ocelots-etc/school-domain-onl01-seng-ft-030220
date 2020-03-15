@@ -18,4 +18,6 @@ class School
    @add_student = @roster[grade]
  end
 
+ def sort(name, grade)
+
 end
