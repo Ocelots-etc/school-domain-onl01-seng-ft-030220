@@ -11,6 +11,7 @@ roster = {}
  end
 
 def roster
+  roster["name"] = []
 
 end
 
