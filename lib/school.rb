@@ -19,7 +19,7 @@ class School
  end
 
  def sort
-  School
+  @roster
  end
 
 end
