@@ -5,7 +5,7 @@ roster = {}
  def initialize(name, grade)
    @name = name
  end
- #
+
  # def name
  #   @name
  # end
