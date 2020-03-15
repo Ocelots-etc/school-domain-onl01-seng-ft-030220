@@ -4,7 +4,7 @@ attr_accessor :name, :roster
 roster = {}
 
 def initialize(roster)
-  @roster = rosters
+  @roster = roster
   roster << roster
 end
 
