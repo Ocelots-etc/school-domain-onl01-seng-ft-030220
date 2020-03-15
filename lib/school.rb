@@ -1,7 +1,7 @@
 class School
 attr_accessor :name
 
-def roster = {}
+def roster
 end
 
 end
