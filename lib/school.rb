@@ -10,7 +10,7 @@ roster = {}
    @name
  end
 
-def roster(name, grades)
+def roster(name, grade)
 
 
 # , :roster, :grade
