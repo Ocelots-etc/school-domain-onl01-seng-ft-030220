@@ -5,7 +5,7 @@ roster["name"] = {}
 
 def initialize(roster)
   @roster = roster
-  roster << roster
+  roster["name"] << roster
 end
 
 def add_student(name, grade)
