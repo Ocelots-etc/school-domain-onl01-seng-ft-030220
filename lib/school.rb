@@ -9,7 +9,6 @@ class School
    @name
  end
 
-
 # , :roster, :grade
 #
 # roster = {}
