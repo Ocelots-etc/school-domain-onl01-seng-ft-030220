@@ -20,4 +20,6 @@ class School
 
  def sort(name, grade)
 
+ end
+
 end
