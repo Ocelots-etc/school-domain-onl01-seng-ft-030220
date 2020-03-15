@@ -23,3 +23,5 @@ class School
 # end
 
 end
+
+school = school.new("Bayside High School")
