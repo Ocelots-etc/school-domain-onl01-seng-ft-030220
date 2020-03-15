@@ -10,10 +10,10 @@ roster = {}
    @name
  end
 
-def roster
-  roster["name"] = []
-  roster["name"] << "name"
-end
+# def roster
+#   roster["name"] = []
+#   roster["name"] << "name"
+# end
 
 # , :roster, :grade
 #
