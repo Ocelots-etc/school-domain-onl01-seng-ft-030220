@@ -6,6 +6,9 @@ class School
    @school = school
  end
 
+ def school
+   @school
+ end
  # def name
  #   @name
  # end
